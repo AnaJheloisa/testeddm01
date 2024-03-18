@@ -6,8 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Ana Júlia Pércio Ferreira !</Text>
       <Text>Heloisa Alves de Freitas !</Text>
-      <Text>open up app.js to start working on your app!</Text>
-      <Text>clone do porjeto aula 04-03-2024 3B3 Lado A</Text>
+
       <Button title='Enviar'></Button>
 
       <StatusBar style="auto" />
